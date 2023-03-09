@@ -8,4 +8,4 @@ A personal collection of course & book summaries.
 
 **Books**
  - [Designing Data Intensive Applications - Martin Kleppmann](./doc/Designing-Data-Intensive-Applications.md)
- - [Computer Networking: A Top-Down Approach - James Kurose, Keith Ross](./doc/Designing-Data-Intensive-Applications.md)
+ - [Computer Networking: A Top-Down Approach - James Kurose, Keith Ross](./doc/Computer-Networking.md)
